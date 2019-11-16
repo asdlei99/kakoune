@@ -19,6 +19,8 @@ released versions.
 
 * `info` supports markup with the `-markup` switch
 
+* Replace NCursesUI with a custom terminal UI implementation
+
 == Kakoune 2019.07.01
 
 * Re-organized bundled script files directory hierarchy.
